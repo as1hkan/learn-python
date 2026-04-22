@@ -1,0 +1,1 @@
+This repository documents my Python learning journey, which I started with your guidance and will continue step by step
