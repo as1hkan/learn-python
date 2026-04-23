@@ -5,7 +5,7 @@ number = random.randint(1, 100)
 for attempt in range(3):
     guess = int(input("Enter your guess: "))
 
-    if guess < number:
+    if guess <   number:
         print("Too low")
     elif guess > number:
         print("Too high")
